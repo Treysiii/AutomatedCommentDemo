@@ -1,6 +1,7 @@
 <template>
   <div class="hello-world-box">
     <span class="hello-world-text">Hello World</span>
+    <span class="hello-world-text">Hello World</span>
   </div>
 </template>
 
